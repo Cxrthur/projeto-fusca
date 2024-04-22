@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+:root {
+    --cor0: #6CDCFA;
+    --cor01: #a6ceda;
+    --cor02: #318299;
+    --cor1: #231651;
+    --cor2: #9A031E;
+    --cor3: #FAEF6B;
+
+    --fontepadrao: Arial, Sans-Serif, Helvetica
+}
+
+header {
+    background-image: linear-gradient(to left, #6CDCFA, #318299);
+    height: 200px;
+    width: 70%;
+    margin: auto;
+}
+
+header h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
